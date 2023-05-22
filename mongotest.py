@@ -26,3 +26,4 @@ d = {
 db = client['mongotest']
 coll = db['test1']
 coll.insert_one(d)
+# hi
